@@ -1,0 +1,22 @@
+Filesystem                      Size  Used Avail Use% Mounted on
+tmpfs                           1.7G  1.0M  1.7G   1% /dev
+tmpfs                           1.7G     0  1.7G   0% /mnt
+tmpfs                           1.7G     0  1.7G   0% /apex
+/dev/block/sda15                 11M  112K   11M   1% /metadata
+tmpfs                           1.7G  3.6M  1.7G   1% /sbin
+none                            1.7G     0  1.7G   0% /sys/fs/cgroup
+/dev/block/sde61                 93M   64K   93M   1% /op1
+/dev/block/sda8                 232M   70M  162M  31% /op2
+/dev/block/sda2                  27M  1.4M   25M   6% /mnt/vendor/persist
+/dev/block/sde25                512M  103M  409M  21% /vendor/firmware_mnt
+/dev/block/sde30                 27M   14M   14M  51% /vendor/dsp
+/dev/block/sde26                 64M  880K   63M   2% /vendor/bt_firmware
+/dev/block/dm-7                 4.6M  4.6M   28K 100% /apex/com.android.conscrypt@301700200
+/dev/block/dm-8                 4.8M  4.8M   28K 100% /apex/com.android.media@301700000
+/dev/block/dm-9                  19M   19M   28K 100% /apex/com.android.media.swcodec@301700000
+/dev/block/dm-10                2.3M  2.3M   32K  99% /apex/com.android.resolv@301700100
+/dev/block/dm-11                836K  808K   28K  97% /apex/com.android.tzdata@293500000
+/dev/block/loop7                 96M   96M   36K 100% /apex/com.android.runtime@1
+/dev/block/loop8                232K   36K  196K  16% /apex/com.android.apex.cts.shim@1
+tmpfs                           1.7G     0  1.7G   0% /system/xbin
+/data/media                      45G  7.1G   38G  16% /mnt/runtime/default/emulated
